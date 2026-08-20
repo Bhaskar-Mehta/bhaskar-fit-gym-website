@@ -18,8 +18,6 @@ A fully responsive gym / fitness landing page built with HTML, CSS and JavaScrip
 - [Remixicon](https://remixicon.com/) for icons
 - [ScrollReveal](https://scrollrevealjs.org/) for scroll animations
 
-### Preview
-![preview img](/preview.png)
 
 ### Run it locally
 Just open `index.html` in your browser — no build step required.
