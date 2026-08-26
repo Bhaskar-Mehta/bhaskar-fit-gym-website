@@ -23,4 +23,4 @@ A fully responsive gym / fitness landing page built with HTML, CSS and JavaScrip
 Just open `index.html` in your browser — no build step required.
 
 ---
-Built and customized by **Bhaskar Mehta**.
+Built and customized by **Bhaskar Mehta**
